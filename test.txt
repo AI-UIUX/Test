@@ -1,2 +1,1 @@
-
-https://claude.ai/login?selectAccount=true&from=logout&returnTo=%2Foauth%2Fauthorize%3Fcode%3Dtrue%26client_id%3D9d1c250a-e61b-44d9-88ed-5944d1962f5e%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%253A43629%252Fcallback%26scope%3Dorg%253Acreate_api_key%2Buser%253Aprofile%2Buser%253Ainference%2Buser%253Asessions%253Aclaude_code%2Buser%253Amcp_servers%2Buser%253Afile_upload%2Buser%253Aplugins%2Buser%253Aprivacy_consents%253Awrite%2Borg%253Adesktop_config%26code_challenge%3DdE-uprl9xOn6CMY-58DGnuFm7pFFkvQ46lI1g6Sl6I8%26code_challenge_method%3DS256%26state%3Ddj5FdMhf2X_p_wtcKAviY_RWZAVpa1_dpuwDKUZ4cCw
+https://claude.ai/oauth/authorize?z-dE-uprl9xOn6CMY-58DGnuFm7pFFkvQ46lI1g6Sl6I8
